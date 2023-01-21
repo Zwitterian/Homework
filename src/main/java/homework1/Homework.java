@@ -7,7 +7,7 @@ public class Homework {
 
     int a = -5;
     int b = 8;
-    int c = 6;
+    int c = 5;
 
     int result1 = a + b*c;
 
